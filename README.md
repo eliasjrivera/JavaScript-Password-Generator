@@ -11,9 +11,7 @@ When you click the button to generate a password, a series of prompts are presen
 A prompt is given to choose a length of at least 8 characters and no more than 128 characters. 
 <br>
 When prompted, you can select which criteria to include in the password.  
-<br>
 You can confirm whether or not to include, lowercase, uppercase, numeric, and/or special characters.  
-<br>
 When each prompt is answered, input is validated and at least one character type will be selected or an error prompt pops up.
 <br>
 When all prompts are answered then a password is generated that matches the selected criteria.
