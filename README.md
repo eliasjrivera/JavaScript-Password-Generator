@@ -1,4 +1,4 @@
-# CSS-Demonstration-Site
+# Javascript Password Generator
 
 ## Table of Contents
 - [Description](#description)
